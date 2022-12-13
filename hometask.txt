@@ -5,3 +5,18 @@ Create release branch with human (master) in boots (boots branch) and hat (hat b
 
 demo:
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).  
+
+
+на mastere 11 коммитов
+их комменты:
+init
+heat added
+boots
+README added 
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+diff master demo
